@@ -1,0 +1,5 @@
+FROM amazoncorretto:11-alpine-jdk
+MAINTAINER emaaristimuno
+COPY target/NAME-YOUR-FILE-BUILD-SPRINGBOOT.jar NAME-YOUR-FILE-BUILDSPRINGBOOT.jar
+ENTRYPOINT ["java","-jar","./target/bosta-0.0.1-SNAPSHOT.jar"]
+
