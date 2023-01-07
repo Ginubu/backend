@@ -1,4 +1,4 @@
-package com.portfolioDB.Portfolio;
+package com.portfolioDG.Portfolio;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

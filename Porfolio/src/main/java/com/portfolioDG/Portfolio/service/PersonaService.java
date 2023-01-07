@@ -2,10 +2,10 @@
 
 // Esta clase contiene los metodos que se declaran en IPersonaService
 
-package com.portfolioDB.Portfolio.service;
+package com.portfolioDG.Portfolio.service;
 
-import com.portfolioDB.Portfolio.Dto.PersonaRepo;
-import com.portfolioDB.Portfolio.model.Persona;
+import com.portfolioDG.Portfolio.Dto.PersonaRepo;
+import com.portfolioDG.Portfolio.model.Persona;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

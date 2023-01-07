@@ -1,7 +1,7 @@
 //Es la logica de todo 
-package com.portfolioDB.Portfolio.service;
+package com.portfolioDG.Portfolio.service;
 
-import com.portfolioDB.Portfolio.model.Persona;
+import com.portfolioDG.Portfolio.model.Persona;
 import java.util.List;
 
 

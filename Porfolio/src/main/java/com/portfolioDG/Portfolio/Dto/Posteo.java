@@ -1,7 +1,7 @@
 
-package com.portfolioDB.Portfolio.Dto;
+package com.portfolioDG.Portfolio.Dto;
 
-import com.portfolioDB.Portfolio.model.Persona;
+import com.portfolioDG.Portfolio.model.Persona;
 import java.util.ArrayList;
 import java.util.List;
 import org.springframework.stereotype.Repository;
