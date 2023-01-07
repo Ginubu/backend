@@ -1,1 +1,7 @@
-/home/ginov/Repos/portfolio/spring/bosta/src/main/java/com/porongama/bosta/BostaApplication.java
+/home/ginov/Repos/portfolio/backend/port1/src/main/java/com/porongama/bosta/model/Persona.java
+/home/ginov/Repos/portfolio/backend/port1/src/main/java/com/porongama/bosta/Dto/PersonaRepo.java
+/home/ginov/Repos/portfolio/backend/port1/src/main/java/com/porongama/bosta/service/PersonaService.java
+/home/ginov/Repos/portfolio/backend/port1/src/main/java/com/porongama/bosta/BostaApplication.java
+/home/ginov/Repos/portfolio/backend/port1/src/main/java/com/porongama/bosta/service/iPersonaService.java
+/home/ginov/Repos/portfolio/backend/port1/src/main/java/com/porongama/bosta/Controller/Controller.java
+/home/ginov/Repos/portfolio/backend/port1/src/main/java/com/porongama/bosta/Dto/Posteo.java

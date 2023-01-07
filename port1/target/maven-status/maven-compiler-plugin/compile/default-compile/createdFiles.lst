@@ -1,1 +1,7 @@
+com/porongama/bosta/Dto/Posteo.class
 com/porongama/bosta/BostaApplication.class
+com/porongama/bosta/Dto/PersonaRepo.class
+com/porongama/bosta/service/PersonaService.class
+com/porongama/bosta/Controller/Controller.class
+com/porongama/bosta/model/Persona.class
+com/porongama/bosta/service/iPersonaService.class
