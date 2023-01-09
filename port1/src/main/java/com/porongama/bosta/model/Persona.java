@@ -17,6 +17,7 @@ import lombok.Setter;
 public class Persona {
     private String nombre;
     private String apellido;
+    private String mail;
   
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
@@ -25,9 +26,10 @@ public class Persona {
     public Persona() {
     }
 
-    public Persona(String nombre, String apellido, long id) {
+    public Persona(String nombre, String apellido, String mail, long id) {
         this.nombre = nombre;
         this.apellido = apellido;
+        this.mail = mail;
         this.id = id;
     }
 
